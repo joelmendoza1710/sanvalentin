@@ -5,7 +5,7 @@ const yesBtn = document.getElementById("yes-btn");
 const noBtn = document.getElementById("no-btn");
 
 yesBtn.addEventListener("click", () => {
-  question.innerHTML = "JEJEJEJE no tenias elecion nos vemos el 14 de febrero para llenarte de besos boca sucia!";
+  question.innerHTML = "JEJEJEJE no tenias Elección nos vemos el 14 de febrero para llenarte de besos boca sucia!";
   gif.src = "https://media.giphy.com/media/UMon0fuimoAN9ueUNP/giphy.gif";
 });
 
